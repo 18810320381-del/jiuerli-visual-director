@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jiuerli Photo Sketch"
+  short_description: "照片转中央大留白混合媒介随笔涂鸦速写"
+  default_prompt: "Use $jiuerli-visual-director to distill this photo into a sparse centered warm-paper travel-notebook scribble."
+policy:
+  allow_implicit_invocation: false
